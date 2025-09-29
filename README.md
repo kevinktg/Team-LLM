@@ -2,7 +2,7 @@
 
 A local-first, Brutalist-style web UI for Ollama that focuses on creating and managing custom AI characters for chat.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kevinktg/Team-LLM)
 
 ## Description
 
@@ -98,7 +98,7 @@ This project is a static web application and can be deployed to any static hosti
 
 You can deploy this application to Cloudflare Pages with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/kevinktg/Team-LLM)
 
 **Manual Deployment Steps:**
 
